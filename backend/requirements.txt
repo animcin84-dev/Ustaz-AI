@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+google-genai
+pandas
+openpyxl
+pydantic[email]
+email-validator
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+pytest
+httpx
+pytest-asyncio
